@@ -7,15 +7,13 @@
   <link rel="stylesheet" href="style.css" />
 </head>
 <body>
-  <div>
 <h1>John Maras</h1>
+    <img src="https://imgur.com/a/gRdmJlP">
     <p> TITLE ABOUT YOURSELF</p>
   </div>
-  
   <div class="exp-header">
     <h3> Professional Experience</h3>
   </div>
-  
   <div>
     <h4>Pizza Luce</h4>
     <h5>Bar Manager and Lead Bartender</h5>
@@ -48,9 +46,7 @@
       <li>
     </ul>
     <h5>Associates of Arts</h5>
-    <h6>Hibbing Community College</h6>
-    
-  </div>
-    
+    <h6>Hibbing Community College</h6> 
+  </div>  
 </body>
 </html>
