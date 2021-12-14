@@ -1,17 +1,20 @@
 body {
   margin: auto;
+  max-width: max-content;
   background-color: #6495ED;
   background-image: url(https://www.photos-public-domain.com/wp-content/uploads/2012/01/crumpled-baby-blue-paper-texture.jpg);
-  background-size: cover;
-  background-position: center center
-  color: #483D8B;
+  background-size: cover; 
   font-family: Arial, Helvetica, sans-serif;
-  
 }
 h1 {
   text-shadow: 3px 2px 6px white;
 }
-
+.title {
+  padding-left: 145px;
+}
+.cowboy {
+  padding-left: 90px
+}
 .exp-header {
   text-align: center;
   text-transform: uppercase;
